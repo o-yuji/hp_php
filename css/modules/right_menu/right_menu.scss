@@ -1,0 +1,120 @@
+$menu_01_color:rgb(3, 125, 238);
+$menu_02_color:#89c2f7;
+
+@mixin menu {
+    display:flex;
+    align-items: center;
+    text-align:center;
+    background-color:$menu_01_color;
+    color:white;
+    padding: 5px;
+    box-sizing:border-box;
+    width:100%;
+}
+
+
+.menu_right{
+    display:flex;
+    flex-direction:column;
+    width:100%;
+    box-sizing:border-box;
+
+    .right_box1{
+        @include menu;
+        display:block;
+        padding:45px;
+        height:100px;
+        min-width:100%;
+        margin: 60px 0 10px 0;
+        border-radius:5px;
+    }
+
+    .accordion{
+        ul{
+            margin:0;
+            padding:0;
+            height:auto;
+            width:100%;
+
+            > li{
+                margin:0;
+                padding:0;
+                background-color:rgb(3, 125, 238);
+                height:auto;
+                width:100%;
+                list-style: none;
+                border-top: 1px solid white;
+                border-radius:3px;
+                &:hover{
+                    opacity:0.8;
+                }
+
+                > span{
+                    display:block;
+                    background-position: 1% center;
+                    background-image:url('./img/open.png');
+                    background-size:25px;
+                    background-repeat:no-repeat;
+                    &.open{
+                        display:block;
+                        background-position: 1% center;
+                        background-image:url('./img/close.png');
+                        background-size:25px;
+                        background-repeat:no-repeat;
+                    }
+                }
+
+                > ul{
+                    display:none;
+                }
+
+                > ul > li{
+                    margin:0;
+                    padding:0;
+                    background-color:#4c9fee;
+                    height:auto;
+                    width:100%;
+                    list-style: none;
+                    &:hover{
+                        opacity:0.8;
+                    }
+                    > ul > li{
+                        margin:0;
+                        padding:0;
+                        background-color:hsl(209, 64%, 79%);
+                        height:auto;
+                        width:100%;
+                        list-style: none;
+                        &:hover{
+                            opacity:0.8;
+                        }
+                    }
+                }
+            }
+
+            a{
+                display:block;
+                height:60px;
+                width:100%;
+                line-height:60px;
+                text-decoration: none;
+                text-align:center;
+                color:white;
+            }
+
+        }
+    }
+
+
+
+    .right_box2{
+        @include menu;
+        display:block;
+        padding:45px;
+        height:100px;
+        min-width:100%;
+        margin: 10px 0 20px 0;
+        border-radius:5px;
+        color:white;
+    }
+}

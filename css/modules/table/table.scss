@@ -1,0 +1,16 @@
+.tb_histry{
+    border: 2px solid gray;
+    border-spacing: 2px;
+    width: 100%;
+
+    .th_his{
+        background-color:#b6d6f5;
+        border: 2px solid gray;
+        font-weight:200;
+        word-wrap:normal;
+    }
+    .td_his{
+        border: 2px solid gray;
+        word-wrap:normal;
+    }
+}

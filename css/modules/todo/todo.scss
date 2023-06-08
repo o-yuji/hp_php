@@ -1,0 +1,46 @@
+.tab_switch {
+    padding-top: 40px;
+    // margin: 40px 16px 0 16px;
+    // margin-left: 16px;
+    // margin-top: 40px;
+    box-sizing: border-box;
+
+    .tab_01 {
+        height: 72px;
+        width: 120px;
+        border-radius: 8px 8px 0 0;
+        background-color: #929292;
+        // border: solid 1px #3b87f8;
+        border-bottom: none;
+        color: #3b87f8;
+        font-weight: 700;
+
+        a {
+            text-decoration: none;
+            color: #3b87f8;
+            font-weight: 700;
+        }
+
+        &.selected {
+            background-color: #beeaff;
+        }
+    }
+
+    .tab_flame {
+        padding: 24px;
+        width: 100%;
+        min-height: 200px;
+        background-color: #beeaff;
+        // font-weight: 700;
+        display: none;
+        // border: solid 1px #3b87f8;
+
+        &.selected {
+            display: block;
+        }
+
+    }
+
+
+
+}

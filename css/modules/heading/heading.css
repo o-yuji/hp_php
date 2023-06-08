@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/*------------見出し--------------*/
+h1 {
+  padding: 0; /*上下の余白*/
+  background: aliceblue;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+  color: white;
+  padding: 0.5em 0.5em 0.5em 0.5em;
+  background-color: hsla(217, 97%, 44%, 0.816);
+  border-radius: 5px;
+  text-align: 60px;
+  font-size: x-large;
+}
+
+h3 {
+  color: #364e96; /*文字色*/
+  border: solid 3px #364e96; /*線色*/
+  padding: 0.5em; /*文字周りの余白*/
+  border-radius: 0.5em; /*角丸*/
+  background-color: #f0f8ff;
+}
+
+h4 {
+  padding: 0.5em 0; /*上下の余白*/
+  background: aliceblue;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+}
+
+/*------------見出し--------------*//*# sourceMappingURL=heading.css.map */

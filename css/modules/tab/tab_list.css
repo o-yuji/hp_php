@@ -1,0 +1,6 @@
+.tab_change .tab_content {
+  display: none;
+}
+.tab_change .tab_content.active {
+  display: block;
+}/*# sourceMappingURL=tab_list.css.map */

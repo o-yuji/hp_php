@@ -1,0 +1,43 @@
+;IPアドレス入力欄
+inputbox 'Ping対象機器のIPアドレスを入力してください' 'Ping Check Macro'
+IPADD = inputstr
+
+connect '160.243.40.11:23 /nossh /T=1'
+
+wait 'Password:'
+sendln 'jusco'
+
+wait 'ntpsv01'
+sendln 'en'
+
+wait 'Password:'
+sendln 'jusco'
+
+wait 'ntpsv01'
+sendln ''
+
+wait 'ntpsv01'
+sendln 'ping vrf vrf1 'IPADD' size 48'
+
+mpause 2000
+
+message = "----------========【Ping確認結果】========--------\n「Sending」行と「Success」行との間の記号が結果です。 \n！ ⇒ Ping成功 \n ． ⇒ Pingタイムアウト \n Ｕ ⇒ Ping到達不能  \n \n 結果を確認したうえで \n［OK］をクリックしてウインドウを閉じてください。"
+strspecial message
+messagebox message 'Ping Check Macro'
+
+wait 'ntpsv01'
+sendln ''
+
+wait 'ntpsv01'
+sendln 'exit'
+
+message = "PINGマクロ処理は終了しました。\n \n \n［OK］をクリックしてウインドウを閉じてください。"
+strspecial message
+;messagebox message 'Ping Check Macro'
+
+end
+
+
+
+
+

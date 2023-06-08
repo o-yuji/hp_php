@@ -1,0 +1,9 @@
+.tab_change{
+    & .tab_content{
+        display:none;
+        &.active{
+            display:block;
+        }
+    }
+
+}

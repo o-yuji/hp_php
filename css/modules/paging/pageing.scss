@@ -1,0 +1,15 @@
+.page_cnt{
+    font-size:large;
+
+    &.selected{
+        color:hsl(230, 86%, 40%);
+        font-weight:bold;
+        font-size:x-large;
+    }
+
+    &:hover{
+        font-weight:bold;
+        font-size:x-large;
+    }
+
+}

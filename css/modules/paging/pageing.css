@@ -1,0 +1,12 @@
+.page_cnt {
+  font-size: large;
+}
+.page_cnt.selected {
+  color: hsl(230, 86%, 40%);
+  font-weight: bold;
+  font-size: x-large;
+}
+.page_cnt:hover {
+  font-weight: bold;
+  font-size: x-large;
+}/*# sourceMappingURL=pageing.css.map */

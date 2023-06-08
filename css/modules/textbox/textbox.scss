@@ -1,0 +1,38 @@
+.ui-autocomplete input {
+  width: 100%;
+}
+
+/*----------テキストボックス--------*/
+@for $i from 1 to 100 {
+    $text-width: 1 * $i;
+    input {
+        &.s_text#{$text-width} {
+          width: $i * 1 + 0%;
+          height: 25px;
+          padding: px;
+          border-radius: 5px;
+          border: 2px solid #ccc;
+          appearance: none;
+          -webkit-appearance: none;
+          -moz-appearance: none;
+        }
+    }
+  }
+  /*----------テキストボックス-------*/
+  /*----------テキストボックス--------*/
+  @for $i from 1 to 100 {
+    $text-width: 1 * $i;
+    input {
+        &.text#{$text-width} {
+          width: $i * 1 + 0%;
+          height: 30px;
+          padding: 5px;
+          border-radius: 5px;
+          border: 2px solid #ccc;
+          appearance: none;
+          -webkit-appearance: none;
+          -moz-appearance: none;
+        }
+    }
+  }
+  /*----------テキストボックス-------*/

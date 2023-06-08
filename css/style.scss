@@ -1,0 +1,34 @@
+//IE11対応----------------------------------------------------
+@media all and (-ms-high-contrast:none) {
+
+  *::-ms-backdrop,
+  .sample {
+    color: #ffffff
+  }
+
+  /* IE11 */
+}
+
+//IE11対応----------------------------------------------------
+html {
+  overflow-y: scroll; //スクロールバー固定表示
+}
+
+@import "./modules/mainframe.scss";
+@import "./modules/btn/btn.scss";
+@import "./modules/table/table.scss";
+@import "./modules/textbox/textbox.scss";
+@import "./modules/left_menu/left_menu.scss";
+@import "./modules/top_menu/gnav.scss";
+@import "./modules/heading/heading.scss";
+@import "./modules/right_menu/right_menu.scss";
+@import "./modules/tab/tab_list.scss";
+@import "./modules/todo/todo.scss";
+@import "./modules/paging/pageing.scss";
+
+// @import  "./modules/top_menu.scss";
+// @import  "./modules/textbox.scss";
+// @import  "./modules/selectbox.scss";
+// @import  "./modules/table.scss";
+// @import  "./modules/heading.scss";
+// @import  "./modules/right_menu.scss";

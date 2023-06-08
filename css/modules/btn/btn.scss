@@ -1,0 +1,84 @@
+$ok_color:rgb(91, 209, 245);
+$del_color:hsl(0, 89%, 66%);
+
+@mixin btn_all{
+    border-radius:5px;
+}
+//OK　Button//
+.btn_ok_s{
+    width:auto;
+    height:auto;
+    border-radius:5px;
+    background-color: $ok_color;
+    &:hover{
+        opacity:0.7;
+    }
+}
+.btn_ok_m{
+    width:80px;
+    height:40px;
+    border-radius:5px;
+    background-color: $ok_color;
+    &:hover{
+        opacity:0.7;
+    }
+}
+.btn_ok_l{
+    width:200px;
+    height:80px;
+    border-radius:5px;
+    background-color: $ok_color;
+    &:hover{
+        opacity:0.7;
+    }
+}
+//delete　Button//
+.btn_del_s{
+    width:auto;
+    height:auto;
+    border-radius:5px;
+    background-color: $del_color;
+    &:hover{
+        opacity:0.7;
+    }
+}
+.btn_del_m{
+    width:80px;
+    height:40px;
+    border-radius:5px;
+    background-color: $del_color;
+    &:hover{
+        opacity:0.7;
+    }
+}
+
+.btn_del_l{
+    width:200px;
+    height:80px;
+    border-radius:5px;
+    background-color: $del_color;
+    &:hover{
+        opacity:0.7;
+    }
+}
+
+.del_btn{
+    cursor:pointer;
+    &:hover{
+        opacity:0.7;
+    }
+}
+
+.logout_btn{
+    cursor:pointer;
+}
+
+.btn_off{
+    cursor:pointer;
+    background-color: hsla(0, 0%, 100%, 0.849);
+    
+}
+
+.btn_on{
+    cursor:pointer;
+}

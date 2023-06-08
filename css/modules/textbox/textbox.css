@@ -1,0 +1,2187 @@
+@charset "UTF-8";
+.ui-autocomplete input {
+  width: 100%;
+}
+
+/*----------テキストボックス--------*/
+input.s_text1 {
+  width: 1%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text2 {
+  width: 2%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text3 {
+  width: 3%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text4 {
+  width: 4%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text5 {
+  width: 5%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text6 {
+  width: 6%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text7 {
+  width: 7%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text8 {
+  width: 8%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text9 {
+  width: 9%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text10 {
+  width: 10%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text11 {
+  width: 11%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text12 {
+  width: 12%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text13 {
+  width: 13%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text14 {
+  width: 14%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text15 {
+  width: 15%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text16 {
+  width: 16%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text17 {
+  width: 17%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text18 {
+  width: 18%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text19 {
+  width: 19%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text20 {
+  width: 20%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text21 {
+  width: 21%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text22 {
+  width: 22%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text23 {
+  width: 23%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text24 {
+  width: 24%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text25 {
+  width: 25%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text26 {
+  width: 26%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text27 {
+  width: 27%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text28 {
+  width: 28%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text29 {
+  width: 29%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text30 {
+  width: 30%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text31 {
+  width: 31%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text32 {
+  width: 32%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text33 {
+  width: 33%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text34 {
+  width: 34%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text35 {
+  width: 35%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text36 {
+  width: 36%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text37 {
+  width: 37%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text38 {
+  width: 38%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text39 {
+  width: 39%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text40 {
+  width: 40%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text41 {
+  width: 41%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text42 {
+  width: 42%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text43 {
+  width: 43%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text44 {
+  width: 44%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text45 {
+  width: 45%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text46 {
+  width: 46%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text47 {
+  width: 47%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text48 {
+  width: 48%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text49 {
+  width: 49%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text50 {
+  width: 50%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text51 {
+  width: 51%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text52 {
+  width: 52%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text53 {
+  width: 53%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text54 {
+  width: 54%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text55 {
+  width: 55%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text56 {
+  width: 56%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text57 {
+  width: 57%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text58 {
+  width: 58%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text59 {
+  width: 59%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text60 {
+  width: 60%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text61 {
+  width: 61%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text62 {
+  width: 62%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text63 {
+  width: 63%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text64 {
+  width: 64%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text65 {
+  width: 65%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text66 {
+  width: 66%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text67 {
+  width: 67%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text68 {
+  width: 68%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text69 {
+  width: 69%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text70 {
+  width: 70%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text71 {
+  width: 71%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text72 {
+  width: 72%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text73 {
+  width: 73%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text74 {
+  width: 74%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text75 {
+  width: 75%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text76 {
+  width: 76%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text77 {
+  width: 77%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text78 {
+  width: 78%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text79 {
+  width: 79%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text80 {
+  width: 80%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text81 {
+  width: 81%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text82 {
+  width: 82%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text83 {
+  width: 83%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text84 {
+  width: 84%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text85 {
+  width: 85%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text86 {
+  width: 86%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text87 {
+  width: 87%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text88 {
+  width: 88%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text89 {
+  width: 89%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text90 {
+  width: 90%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text91 {
+  width: 91%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text92 {
+  width: 92%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text93 {
+  width: 93%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text94 {
+  width: 94%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text95 {
+  width: 95%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text96 {
+  width: 96%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text97 {
+  width: 97%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text98 {
+  width: 98%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.s_text99 {
+  width: 99%;
+  height: 25px;
+  padding: px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+/*----------テキストボックス-------*/
+/*----------テキストボックス--------*/
+input.text1 {
+  width: 1%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text2 {
+  width: 2%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text3 {
+  width: 3%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text4 {
+  width: 4%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text5 {
+  width: 5%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text6 {
+  width: 6%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text7 {
+  width: 7%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text8 {
+  width: 8%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text9 {
+  width: 9%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text10 {
+  width: 10%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text11 {
+  width: 11%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text12 {
+  width: 12%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text13 {
+  width: 13%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text14 {
+  width: 14%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text15 {
+  width: 15%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text16 {
+  width: 16%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text17 {
+  width: 17%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text18 {
+  width: 18%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text19 {
+  width: 19%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text20 {
+  width: 20%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text21 {
+  width: 21%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text22 {
+  width: 22%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text23 {
+  width: 23%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text24 {
+  width: 24%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text25 {
+  width: 25%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text26 {
+  width: 26%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text27 {
+  width: 27%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text28 {
+  width: 28%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text29 {
+  width: 29%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text30 {
+  width: 30%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text31 {
+  width: 31%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text32 {
+  width: 32%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text33 {
+  width: 33%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text34 {
+  width: 34%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text35 {
+  width: 35%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text36 {
+  width: 36%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text37 {
+  width: 37%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text38 {
+  width: 38%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text39 {
+  width: 39%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text40 {
+  width: 40%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text41 {
+  width: 41%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text42 {
+  width: 42%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text43 {
+  width: 43%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text44 {
+  width: 44%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text45 {
+  width: 45%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text46 {
+  width: 46%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text47 {
+  width: 47%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text48 {
+  width: 48%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text49 {
+  width: 49%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text50 {
+  width: 50%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text51 {
+  width: 51%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text52 {
+  width: 52%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text53 {
+  width: 53%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text54 {
+  width: 54%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text55 {
+  width: 55%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text56 {
+  width: 56%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text57 {
+  width: 57%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text58 {
+  width: 58%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text59 {
+  width: 59%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text60 {
+  width: 60%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text61 {
+  width: 61%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text62 {
+  width: 62%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text63 {
+  width: 63%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text64 {
+  width: 64%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text65 {
+  width: 65%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text66 {
+  width: 66%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text67 {
+  width: 67%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text68 {
+  width: 68%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text69 {
+  width: 69%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text70 {
+  width: 70%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text71 {
+  width: 71%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text72 {
+  width: 72%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text73 {
+  width: 73%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text74 {
+  width: 74%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text75 {
+  width: 75%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text76 {
+  width: 76%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text77 {
+  width: 77%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text78 {
+  width: 78%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text79 {
+  width: 79%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text80 {
+  width: 80%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text81 {
+  width: 81%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text82 {
+  width: 82%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text83 {
+  width: 83%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text84 {
+  width: 84%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text85 {
+  width: 85%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text86 {
+  width: 86%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text87 {
+  width: 87%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text88 {
+  width: 88%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text89 {
+  width: 89%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text90 {
+  width: 90%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text91 {
+  width: 91%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text92 {
+  width: 92%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text93 {
+  width: 93%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text94 {
+  width: 94%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text95 {
+  width: 95%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text96 {
+  width: 96%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text97 {
+  width: 97%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text98 {
+  width: 98%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input.text99 {
+  width: 99%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+/*----------テキストボックス-------*//*# sourceMappingURL=textbox.css.map */

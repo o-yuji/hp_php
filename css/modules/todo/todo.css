@@ -1,0 +1,31 @@
+.tab_switch {
+  padding-top: 40px;
+  box-sizing: border-box;
+}
+.tab_switch .tab_01 {
+  height: 72px;
+  width: 120px;
+  border-radius: 8px 8px 0 0;
+  background-color: #929292;
+  border-bottom: none;
+  color: #3b87f8;
+  font-weight: 700;
+}
+.tab_switch .tab_01 a {
+  text-decoration: none;
+  color: #3b87f8;
+  font-weight: 700;
+}
+.tab_switch .tab_01.selected {
+  background-color: #beeaff;
+}
+.tab_switch .tab_flame {
+  padding: 24px;
+  width: 100%;
+  min-height: 200px;
+  background-color: #beeaff;
+  display: none;
+}
+.tab_switch .tab_flame.selected {
+  display: block;
+}/*# sourceMappingURL=todo.css.map */
